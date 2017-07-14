@@ -1,6 +1,6 @@
 ## Note:
 
-These instructions and environment setups were taken from a public repository for a Udacity course on self-driving cars. Check out the full repo [here](https://github.com/udacity/CarND-Term1-Starter-Kit). If you want tensorflow and keras and some additional libraries relating to computer vision, then clone that repository and follow the steps in their readme. Bonus: their setup comes with a Docker container too.
+These instructions and environment setups were taken from a public repository for a Udacity course on self-driving cars. Check out the full repo [here](https://github.com/udacity/CarND-Term1-Starter-Kit). If you want tensorflow and keras and some additional libraries relating to computer vision, then clone that repository and follow the steps in their readme. Bonus: their setup comes with a Docker container too. But this repo contains most libraries needed for computer vision and image processing, including Jupyter notebook.
 
 # Configure and Manage Your Environment with Anaconda
 
